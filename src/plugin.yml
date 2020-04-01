@@ -1,0 +1,6 @@
+name: Fluctuations
+version: "1.0"
+author: vicr123
+main: com.vicr123.bnbmc.fluctuations.Fluctuations
+depend:
+  - ChairEco
